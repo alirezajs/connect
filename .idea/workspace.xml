@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ec924eb5-4826-4f63-9956-87b0621947d3" name="Default Changelist" comment="init commit">
+      <change afterPath="$PROJECT_DIR$/server/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/.prettierrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/nest-cli.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/app.controller.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/app.controller.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/app.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/app.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/models/response.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/test/app.e2e-spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/test/jest-e2e.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/tsconfig.build.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/tslint.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hami-conect-back/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hami-conect-back/.prettierrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hami-conect-back/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hami-conect-back/nest-cli.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hami-conect-back/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hami-conect-back/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hami-conect-back/src/app.controller.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hami-conect-back/src/app.controller.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hami-conect-back/src/app.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hami-conect-back/src/app.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hami-conect-back/src/main.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hami-conect-back/src/models/response.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hami-conect-back/test/app.e2e-spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hami-conect-back/test/jest-e2e.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hami-conect-back/tsconfig.build.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hami-conect-back/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hami-conect-back/tslint.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shoppingCart/.browserslistrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shoppingCart/.env.development" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shoppingCart/.env.production" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shoppingCart/.eslintrc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shoppingCart/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shoppingCart/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shoppingCart/babel.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shoppingCart/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shoppingCart/postcss.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shoppingCart/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shoppingCart/public/img/Vue-Icons.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shoppingCart/public/img/icons/android-chrome-192x192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shoppingCart/public/img/icons/android-chrome-512x512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shoppingCart/public/img/icons/apple-touch-icon-120x120.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shoppingCart/public/img/icons/apple-touch-icon-152x152.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shoppingCart/public/img/icons/apple-touch-icon-180x180.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shoppingCart/public/img/icons/apple-touch-icon-60x60.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shoppingCart/public/img/icons/apple-touch-icon-76x76.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shoppingCart/public/img/icons/apple-touch-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shoppingCart/public/img/icons/favicon-16x16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shoppingCart/public/img/icons/favicon-32x32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shoppingCart/public/img/icons/msapplication-icon-144x144.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shoppingCart/public/img/icons/mstile-150x150.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shoppingCart/public/img/icons/safari-pinned-tab.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shoppingCart/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shoppingCart/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shoppingCart/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shoppingCart/server.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shoppingCart/server/mongo/config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shoppingCart/server/mongo/model/product.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shoppingCart/server/mongo/model/shipping-detail.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shoppingCart/server/mongo/model/user.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shoppingCart/server/routes/api.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shoppingCart/server/routes/authApi.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shoppingCart/server/routes/productApi.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shoppingCart/server/routes/shippingDetailApi.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shoppingCart/src/App.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shoppingCart/src/assets/create-account.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shoppingCart/src/assets/login-img.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shoppingCart/src/assets/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shoppingCart/src/components/CreateAccount.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shoppingCart/src/components/HelloWorld.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shoppingCart/src/components/checkout/CheckoutModal.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shoppingCart/src/components/products/BestProducts.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shoppingCart/src/components/products/ProductDetail.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shoppingCart/src/components/products/ProductsList.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shoppingCart/src/components/products/TopProducts.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shoppingCart/src/components/products/actions/CreateProduct.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shoppingCart/src/components/products/actions/EditProduct.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shoppingCart/src/components/products/actions/ProductForm.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shoppingCart/src/components/products/cart/CartCalculator.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shoppingCart/src/components/products/cart/CartProducts.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shoppingCart/src/components/products/cart/Checkout.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shoppingCart/src/components/products/cart/ShippingDetails.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shoppingCart/src/components/products/filters/ProductFilter.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shoppingCart/src/components/shared/CardLoader.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shoppingCart/src/components/shared/CardTemplate.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shoppingCart/src/components/shared/Modal.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shoppingCart/src/components/shared/service/ErrorHandler.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shoppingCart/src/components/shared/service/authService.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shoppingCart/src/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shoppingCart/src/registerServiceWorker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shoppingCart/src/router.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shoppingCart/src/store.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shoppingCart/src/views/Home.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shoppingCart/src/views/Products.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shoppingCart/src/views/login.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shoppingCart/yarn.lock" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1UKXdIxm5Y1IVFj978EU1X5NNAQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/Vue-ShoppingCart-master" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.TypeScript" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/server/node_modules/typescript/lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/back/src/api/route/api-v1" />
+      <recent name="$PROJECT_DIR$/back/src/api/route" />
+      <recent name="$PROJECT_DIR$/back/src/api" />
+      <recent name="$PROJECT_DIR$/back/src/view" />
+      <recent name="$PROJECT_DIR$/back/src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ec924eb5-4826-4f63-9956-87b0621947d3" name="Default Changelist" comment="" />
+      <created>1575106346064</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575106346064</updated>
+      <workItem from="1575106347265" duration="15208000" />
+      <workItem from="1575176723443" duration="5000" />
+      <workItem from="1575176810520" duration="2000" />
+      <workItem from="1575178367946" duration="6445000" />
+      <workItem from="1575189135731" duration="163000" />
+      <workItem from="1575189336056" duration="7755000" />
+      <workItem from="1575200192168" duration="16014000" />
+      <workItem from="1575267220524" duration="24427000" />
+      <workItem from="1575352110503" duration="19790000" />
+      <workItem from="1575376639354" duration="13752000" />
+      <workItem from="1575439172880" duration="1304000" />
+      <workItem from="1575440985412" duration="1287000" />
+      <workItem from="1575442828566" duration="639000" />
+      <workItem from="1575444641549" duration="1905000" />
+      <workItem from="1575446591688" duration="1614000" />
+      <workItem from="1575448410857" duration="302000" />
+      <workItem from="1575448777248" duration="1802000" />
+      <workItem from="1575450603151" duration="1024000" />
+      <workItem from="1575453389393" duration="38000" />
+      <workItem from="1575462277716" duration="490000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="init commit" />
+  </component>
+</project>
